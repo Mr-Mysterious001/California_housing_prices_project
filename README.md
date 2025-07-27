@@ -41,7 +41,7 @@ A beginner-friendly data science project that predicts median house prices acros
 
 Graphs are auto-generated using `visualization.py` and saved in the `images/` folder.
 
-### Latitude vs Longitude Scatter Matrix
+### Latitude vs Longitude Scatter Graph
 ![Histogram](images/Lat_Long.png)
 
 ### Scatter Matrix
